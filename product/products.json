@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "id": "ww1",
+      "name": "carro"
+    },
+    {
+      "id": "ww2",
+      "name": "moto"
+    }
+  ]
+}
